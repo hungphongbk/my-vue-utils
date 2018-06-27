@@ -1,7 +1,7 @@
 {
   "name": "my-vue-utils",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
     "build": "webpack --mode=production"
