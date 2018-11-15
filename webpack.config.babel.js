@@ -5,7 +5,7 @@ const dirSrc = path.resolve(__dirname, 'src');
 
 export default {
     entry: {
-        "components/dropdown": path.resolve(dirSrc, 'components/dropdown.vue')
+        "components/dropdown": path.resolve(dirSrc, 'components/dropdown.js')
     },
     output: {
         path: path.resolve(__dirname + '/dist/'),
